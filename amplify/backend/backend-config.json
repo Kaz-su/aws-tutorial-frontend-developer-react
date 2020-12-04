@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awstutorialfrontenddeveloperreact59913d63": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
